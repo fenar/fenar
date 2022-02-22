@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **fenar/fenar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi 👋!
+My name is
+What?
+My name is
+Who?
+My name is
+Fa-Tea-H
+Slim Shady
+
