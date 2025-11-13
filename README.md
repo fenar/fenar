@@ -27,4 +27,5 @@ In 2025 Fatih has been elected as a subject matter expert on AI/ML within Linux 
 
 When not working, he’s likely exploring new datasets and AI models, ctl’ing with k8s, or sneaking dad jokes into tech discussions.
 <br>
-##LinkedIn: https://www.linkedin.com/in/fenar/ 
+#### LinkedIn: https://www.linkedin.com/in/fenar/ 
+#### Medium Publications: https://fnar.medium.com/
