@@ -73,9 +73,3 @@ Core focus: Open-source AI platforms, hybrid cloud architectures, and scalable c
 Publishing insights on AI/ML, cloud-native architecture, and telecom transformation through the **Open xG HyperCore** series.
 
 ---
-
-## Let's Connect
-
-Open to distinguished architect, VP/CTO, and AI/ML leadership opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fenar/)
