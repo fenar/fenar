@@ -1,31 +1,81 @@
-<!--
-**fenar/fenar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fatih E. Nar
 
-Here are some ideas to get you started:
+**Distinguished Architect | AI/ML & Cloud-Native Leader | CTO Office**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Technologist and Distinguished Architect in Dallas, Texas USA
-Fatih E. Nar, has built a career by solving complex challenges in various domains including telecom, entertainment , media and others.
+Architecting enterprise-scale AI and cloud-native solutions that drive measurable business outcomes.
 
-With experiences at Google, Verizon Wireless, Canonical Ubuntu, Ericsson, and now Red Hat, he specializes in Cloud-Native and Data & AI-driven solutions for enterprises and service providers.
+📍 Texas, USA
 
-His work blends AI, Cloud, and High Performance Networked Computing to create efficient & scalable software-driven solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fenar/)
 
-He holds an MSc in Information Technology and a BSc in Electronics Engineering, along with completed AI studies at MIT & Stanford, he is admitted to Purdue University for Doctorate Program for 2026 Spring.
+---
 
-Fatih is also a recognized writer, sharing insights through his Open xG HyperCore series on Medium and contributing to AI/ML projects on GitHub and Hugging Face.
+## About
 
-In 2025 Fatih has been elected as a subject matter expert on AI/ML within Linux Foundation Networking (LFN) organization to steer & lead AI initiatives.
+Distinguished Chief Architect in **Red Hat's CTO Office**, specializing in AI-driven enterprise and telecommunications solutions. Elected **AI Chair of the Linux Foundation Networking (LFN) Technical Advisory Council**, leading strategic AI initiatives across the open-source ecosystem.
 
-When not working, he’s likely exploring new datasets and AI models, ctl’ing with k8s, or sneaking dad jokes into tech discussions.
-<br>
-#### LinkedIn: https://www.linkedin.com/in/fenar/ 
-#### Medium Publications: https://fnar.medium.com/
+Core focus: Open-source AI platforms, hybrid cloud architectures, and scalable cloud-native systems.
+
+---
+
+## Career
+
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)
+![Verizon](https://img.shields.io/badge/Verizon-CD040B?style=flat&logo=verizon&logoColor=white)
+![Canonical](https://img.shields.io/badge/Canonical-77216F?style=flat&logo=ubuntu&logoColor=white)
+![Ericsson](https://img.shields.io/badge/Ericsson-0082C9?style=flat&logo=ericsson&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+
+---
+
+## Technical Expertise
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+---
+
+## Key Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Telco-AIX**](https://github.com/open-experiments/Telco-AIX) | Telecom AI experiments exploring data-driven decision-making through open-source AI and open datasets |
+| [**AIOPS-NextGen**](https://github.com/open-experiments/aiops-nextgen) | Unified observability platform with AI-powered insights, multi-cluster management, and automated root cause analysis |
+| [**Agent-Exchange**](https://github.com/open-experiments/agent-exchange) | Programmatic marketplace applying ad-tech economics for agentic AI services |
+| [**Ent-ObX**](https://github.com/open-experiments/Ent-ObX) | Enterprise observability with custom MELT pipelines, OpenTelemetry, and eBPF |
+
+➡️ [View all projects](https://github.com/orgs/open-experiments/repositories)
+
+---
+
+## Education
+
+| Credential | Institution |
+|------------|-------------|
+| **Doctorate Program** (2026) | Purdue University |
+| **AI Studies** | MIT, Stanford |
+| **MSc** Information Technology | Europe |
+| **BSc** Electronics Engineering | Europe |
+
+---
+
+## Thought Leadership
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://fnar.medium.com/)
+
+Publishing insights on AI/ML, cloud-native architecture, and telecom transformation through the **Open xG HyperCore** series.
+
+---
+
+## Let's Connect
+
+Open to distinguished architect, VP/CTO, and AI/ML leadership opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fenar/)
