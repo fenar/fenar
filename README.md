@@ -1,6 +1,6 @@
 # Fatih E. Nar
 
-**Distinguished Architect | AI/ML & Cloud-Native Leader | CTO Office**
+**Distinguished Architect | Applied AI/ML in Enterprise**
 
 Architecting enterprise-scale AI and cloud-native solutions that drive measurable business outcomes.
 
