@@ -50,6 +50,7 @@ Core focus: Open-source AI platforms, hybrid cloud architectures, and scalable c
 | [**AIOPS-NextGen**](https://github.com/open-experiments/aiops-nextgen) | Unified observability platform with AI-powered insights, multi-cluster management, and automated root cause analysis |
 | [**Agent-Exchange**](https://github.com/open-experiments/agent-exchange) | Programmatic marketplace applying ad-tech economics for agentic AI services |
 | [**Ent-ObX**](https://github.com/open-experiments/Ent-ObX) | Enterprise observability with custom MELT pipelines, OpenTelemetry, and eBPF |
+| [**Agent-School**](https://open-experiments.github.io/agent-school/) | Governed agent workloads, proven top to bottom. Hands-on courses. Each takes a real Telco-AIX experiment and rebuilds it as a governed, cloud-native agent workload, following the Agentic AI Stack Insideout blueprint: the model is a stateless inference service, the harness owns the loop, and the runtime governs what the agent may touch. Every course presents snapshots from a real cluster, with narrated walkthroughs. |
 
 ➡️ [View all projects](https://github.com/orgs/open-experiments/repositories)
 
